@@ -1,17 +1,18 @@
-# Put title of your app here
+# Jetpack Compose Timer
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/AnnaMedvedieva/compose-timer/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+Simple single screen timer app created for Android Jetpack Compose Challenge, Week 2.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Basic implementation to learn animation in Jetpack Compose. 
 
 
 ## :camera_flash: Screenshots
